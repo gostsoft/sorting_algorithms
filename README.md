@@ -1,2 +1,1 @@
-# sorting_algorithms
-sorting algogrithm
+Sorting Agorithms readme file
